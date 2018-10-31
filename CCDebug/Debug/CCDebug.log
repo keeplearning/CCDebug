@@ -1,0 +1,9 @@
+﻿  CCDebug.cpp
+f:\projects\ccdebug\ccdebug\ccdebug.cpp(819): warning C4018: “>=”: 有符号/无符号不匹配
+f:\projects\ccdebug\ccdebug\ccdebug.cpp(830): warning C4129: “9”: 不可识别的字符转义序列
+f:\projects\ccdebug\ccdebug\ccdebug.cpp(1144): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“WCHAR *”
+  f:\projects\ccdebug\ccdebug\ccdebug.cpp(1144): note: 请考虑在格式字符串中使用“%ls”
+  f:\projects\ccdebug\ccdebug\ccdebug.cpp(1144): note: 请考虑在格式字符串中使用“%lls”
+  f:\projects\ccdebug\ccdebug\ccdebug.cpp(1144): note: 请考虑在格式字符串中使用“%Ls”
+  f:\projects\ccdebug\ccdebug\ccdebug.cpp(1144): note: 请考虑在格式字符串中使用“%ws”
+  CCDebug.vcxproj -> F:\Projects\CCDebug\Debug\CCDebug.exe
